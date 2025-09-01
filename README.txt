@@ -1,4 +1,3 @@
-Moto Asai's Portfolio Projects
 
 Dimension by HTML5 UP
 html5up.net | @ajlkn
